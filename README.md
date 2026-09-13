@@ -1,1 +1,1 @@
-# nima-ai-bot
+git clone https://x:art_v2_x_a7e1912b68ce4ce41d7ce1fe6c5f2ab6a1fd9758@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-nima-ai-bot-deploy-563f1380.git nima-ai-bot-deploy
